@@ -34,18 +34,5 @@ Depolarımız dışarıya kapalı olsa da, teknoloji yığınımız gerçek dün
 Her gün kodluyoruz. Aşağıda, kapalı kaynak (private) projelerimiz de dahil olmak üzere ekibimizin toplam geliştirme performansının canlı bir özetini görebilirsiniz.
 
 <p align="center">
-  <img src="http://celebi.oguzhanumutlu.com/dev_stats.svg" alt="dev Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/ardupilot_stats.svg" alt="ardupilot Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/Yer-Kontrol-Istasyonu_stats.svg" alt="Yer-Kontrol-Istasyonu Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/gazeboassets_stats.svg" alt="gazeboassets Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/devtest_stats.svg" alt="devtest Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/FixedWingUAV_stats.svg" alt="FixedWingUAV Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/ros_ardupilot_ws_stats.svg" alt="ros_ardupilot_ws Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/UAVDataVisualization_stats.svg" alt="UAVDataVisualization Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/HSS_stats.svg" alt="HSS Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/UAVLogViewer_stats.svg" alt="UAVLogViewer Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/CelebiSim_stats.svg" alt="CelebiSim Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/ardupilot_gazebo_stats.svg" alt="ardupilot_gazebo Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/planegen_stats.svg" alt="planegen Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/CelebiMobileApp-Website_stats.svg" alt="CelebiMobileApp-Website Stats" />
+  <img src="http://celebi.oguzhanumutlu.com" alt="Stats" />
 </p>
