@@ -39,7 +39,6 @@ Her gün kodluyoruz. Aşağıda, kapalı kaynak (private) projelerimiz de dahil 
   <img src="http://celebi.oguzhanumutlu.com/Yer-Kontrol-Istasyonu_stats.svg" alt="Yer-Kontrol-Istasyonu Stats" />
   <img src="http://celebi.oguzhanumutlu.com/gazeboassets_stats.svg" alt="gazeboassets Stats" />
   <img src="http://celebi.oguzhanumutlu.com/devtest_stats.svg" alt="devtest Stats" />
-  <img src="http://celebi.oguzhanumutlu.com/Celebi-UAV_stats.svg" alt="Celebi-UAV Stats" />
   <img src="http://celebi.oguzhanumutlu.com/FixedWingUAV_stats.svg" alt="FixedWingUAV Stats" />
   <img src="http://celebi.oguzhanumutlu.com/ros_ardupilot_ws_stats.svg" alt="ros_ardupilot_ws Stats" />
   <img src="http://celebi.oguzhanumutlu.com/UAVDataVisualization_stats.svg" alt="UAVDataVisualization Stats" />
