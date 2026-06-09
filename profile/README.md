@@ -1,37 +1,42 @@
 # 🦅 Çelebi UAV'ye Hoş Geldiniz
 
-**Simülasyon, Otonomi ve Hassas Kontrol ile İnsansız Hava Sistemlerini İleriye Taşıyoruz.**
+Çelebi İHA takımı olarak, insansız hava araçları için otonom uçuş, simülasyon ve yer kontrol yazılımları geliştiriyoruz.
 
-Biz, Çelebi İHA takımının arkasındaki mühendislik gücüyüz. Geliştirme süreçlerimizin kalbi; en yeni sabit kanat simülasyonları, yer kontrol istasyonları ve uçuş otomasyon yazılımlarını inşa ettiğimiz kapalı (private) depolarımızda atıyor. 
-
-Kaynak kodlarımız gizli olsa da, yenilikçi yaklaşımımız, hızlı geliştirme sürecimiz ve sürekli entegrasyon faaliyetlerimiz GitHub metriklerimize yansımaktadır.
+Çalışmalarımızın büyük bir kısmı yarışma ve takım stratejilerimiz gereği private repolarda yürütülmektedir. Kod tabanımız dışarıya kapalı olsa da yenilikçi yaklaşımımız, aktif kodlama sürecimiz ve teknik altyapımız GitHub profilimize yansımaktadır. Bu sayfada takımımızın ana çalışmalarını ve teknik yetkinliklerini inceleyebilirsiniz.
 
 ---
 
 ## 🏆 TEKNOFEST Hedeflerimiz ve Başarılarımız
 
-Çelebi UAV olarak geliştirdiğimiz yüksek teknolojili otonom sistemleri, dünyanın en büyük havacılık, uzay ve teknoloji festivali olan **TEKNOFEST** arenalarında test ediyor ve yarışıyoruz. Aktif olarak odaklandığımız yarışmalar:
+2022 yılında kurulan takımımız, yıllar içinde edindiği tecrübeyi sürekli bir üst seviyeye taşımaktadır. Geliştirdiğimiz otonom sistemler ve yazılımlarla her yıl TEKNOFEST yarışmalarında aktif olarak yer almaktayız.  Bugüne kadar tasarladığımız sistemler ve yarışma geçmişimiz şu şekilde:
 
-*   **Savaşan İHA Yarışması:** Sabit kanatlı sistemlerde otonom it dalaşı (dogfight), hedef tespiti ve kilitlenme algoritmaları geliştiriyoruz.
-*   **Savaşan İHA - Avcı İHA / Drone Kategorisi:** Döner kanatlı (drone) platformlarda yüksek çeviklik, yapay zeka destekli hedef takibi ve otonom taarruz yeteneklerimizi sergiliyoruz.
-*   **Uluslararası İnsansız Hava Araçları Yarışması (Sabit Kanat):** Otonom uçuş, görev planlama, yük bırakma ve yüksek operasyonel hassasiyet gerektiren görev sistemleri tasarlıyoruz.
+* **2023 – Uluslararası İHA Yarışması (Serbest Görev):** *Mira* aracımız ile finalist olduk.
+* **2024 – Uluslararası İHA Yarışması (Serbest Görev):** TEKNOFEST’in ilk nitro motorlu helikopteri olan *Orka* aracımızı ürettik.
+* **2025 – TEKNOFEST Baykar Savaşan İHA:** *Yaman* aracımız ile finalist olduk.
+* **2025 – TÜBİTAK Uluslararası İHA Yarışması (Sabit Kanat):** *Alaz* aracımız ile finalist olduk.
+
+Bu tecrübelerin üzerine koyarak şu an aktif olarak üç kategoride şunları yapmaktayız:
+
+* **Savaşan İHA Yarışması:** Sabit kanatlı sistemlerde otonom it dalaşı, görüntü işleme ile hedef tespiti ve kilitlenme algoritmaları üzerinde çalışıyoruz.
+* **Savaşan İHA - Avcı Drone Yarışması:** Döner kanatlı sistemlerde yapay zeka destekli hedef takibi, otonom taarruz ve yüksek manevra kabiliyetine odaklanıyoruz.
+* **Uluslararası İHA Yarışması (Sabit Kanat Kategorisi):** Otonom uçuş, görev planlama, müsabaka uçuş sahası sınırlarının otonom olarak korunması ve hassas faydalı yük bırakma sistemleri tasarlıyoruz.
 
 ---
 
 ## 🚀 Temel Yeteneklerimiz
 
-Depolarımız dışarıya kapalı olsa da, teknoloji yığınımız gerçek dünyadaki İHA operasyonlarına doğrudan güç vermektedir:
+Ekip olarak kullandığımız ve geliştirdiğimiz temel teknolojiler şu şekilde:
 
-*   **Uçuş Kontrolü ve Otonomi:** ArduPilot (ArduPlane/Copter/Rover/Sub) ekosistemiyle özel entegrasyonlar ve sabit kanatlı İHA'lar için özelleştirilmiş MavSDK C++ kütüphaneleri.
-*   **Gelişmiş Simülasyon:** Özel modeller, fizik eklentileri ve ROS 2 çalışma alanları (workspace) ile entegre, Unity 3D (6000.2.15f1) ve Gazebo kullanan yüksek sadakatli (high-fidelity) simülasyon ortamları.
-*   **Yer Kontrol ve Operasyon:** Gerçek zamanlı uçuş öncesi ve uçuş içi telemetri verilerini işlemek üzere Dart/Flutter ve Python ile geliştirilmiş, platform bağımsız Yer Kontrol İstasyonları (GCS) ve mobil/web uygulamaları.
-*   **Veri ve Analitik:** Otomatik veri seti oluşturma araçları (planegen), gelişmiş İHA uçuş kayıt (log) analizörleri ve dinamik HSS (Hava Savunma Sistemi) kaçış algoritmaları.
+* **Uçuş Kontrolü ve Otonomi:** ArduPilot ekosistemi üzerinde çalışıyoruz. Otonom görev icraları ve araca özel senaryolar için C++ ile kendi MAVSDK altyapımızı kullanıyoruz.
+* **Simülasyon:** Tüm otonom senaryolarımızı gerçek uçuş öncesi ROS 2 ile haberleşen, Gazebo ve Unity 3D tabanlı simülasyon ortamlarımızda test ediyoruz.
+* **Yer Kontrol ve Operasyon:** İHA'dan gelen MAVLink telemetri verilerini gerçek zamanlı işleyen, güvenli uçuş ve acil durum kontrollerini sağlayan, Python ve PySide6 tabanlı özgün Yer Kontrol İstasyonu yazılımları geliştiriyoruz.
+* **Veri ve Analitik:** Sadece hazır veri kullanmak yerine, kendi otonom araçlarımızla görüntü veri setleri üretiyoruz. Ayrıca uçuş loglarını analiz edip dinamik HSS kaçış algoritmaları tasarlıyoruz.
 
 ---
 
 ## 📈 Geliştirme Aktivitesi
 
-Her gün kodluyoruz. Aşağıda, kapalı kaynak (private) projelerimiz de dahil olmak üzere ekibimizin toplam geliştirme performansının canlı bir özetini görebilirsiniz.
+Aşağıdaki istatistikler, kapalı repolarımızdaki çalışmalarımız da dahil olmak üzere takımımızın güncel GitHub aktivitesini ve temposunu yansıtmaktadır.
 
 <p align="center">
   <img src="http://celebi.oguzhanumutlu.com" alt="Stats" />
