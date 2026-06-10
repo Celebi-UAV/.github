@@ -1,8 +1,8 @@
 # 🦅 Çelebi UAV'ye Hoş Geldiniz
 
-Çelebi İHA takımı olarak, insansız hava araçları için otonom uçuş, simülasyon ve yer kontrol yazılımları geliştiriyoruz.
+Çelebi İHA takımı olarak, insansız hava araçları için otonom uçuş, simülasyon, yapay zeka ve yer kontrol yazılımları geliştiriyoruz.
 
-Çalışmalarımızın büyük bir kısmı yarışma ve takım stratejilerimiz gereği private repolarda yürütülmektedir. Kod tabanımız dışarıya kapalı olsa da yenilikçi yaklaşımımız, aktif kodlama sürecimiz ve teknik altyapımız GitHub profilimize yansımaktadır. Bu sayfada takımımızın ana çalışmalarını ve teknik yetkinliklerini inceleyebilirsiniz.
+Çalışmalarımızın büyük bir kısmı yarışma ve takım stratejilerimiz gereği private repolarda yürütülmektedir. Kod tabanımız dışarıya kapalı olsa da yenilikçi yaklaşımımız, aktif kodlama sürecimiz ve teknik altyapımız GitHub profilimizde özetlenmektedir. Bu sayfada takımımızın ana çalışmalarını ve teknik yetkinliklerini inceleyebilirsiniz.
 
 ---
 
@@ -12,10 +12,10 @@
 
 * **2023 – Uluslararası İHA Yarışması (Serbest Görev):** *Mira* aracımız ile finalist olduk.
 * **2024 – Uluslararası İHA Yarışması (Serbest Görev):** TEKNOFEST’in ilk nitro motorlu helikopteri olan *Orka* aracımızı ürettik.
-* **2025 – TEKNOFEST Baykar Savaşan İHA:** *Yaman* aracımız ile finalist olduk.
-* **2025 – TÜBİTAK Uluslararası İHA Yarışması (Sabit Kanat):** *Alaz* aracımız ile finalist olduk.
+* **2025 – Savaşan İHA Yarışması:** *Yaman* aracımız ile finalist olduk.
+* **2025 – Uluslararası İHA Yarışması (Sabit Kanat):** *Alaz* aracımız ile finalist olduk.
 
-Bu tecrübelerin üzerine koyarak şu an aktif olarak üç kategoride şunları yapmaktayız:
+Bu tecrübelerin üzerine koyarak aktif olarak üç kategoride şunları yapmaktayız:
 
 * **Savaşan İHA Yarışması:** Sabit kanatlı sistemlerde otonom it dalaşı, görüntü işleme ile hedef tespiti ve kilitlenme algoritmaları üzerinde çalışıyoruz.
 * **Savaşan İHA - Avcı Drone Yarışması:** Döner kanatlı sistemlerde yapay zeka destekli hedef takibi, otonom taarruz ve yüksek manevra kabiliyetine odaklanıyoruz.
